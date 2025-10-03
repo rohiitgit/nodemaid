@@ -59,6 +59,12 @@ Do you want to delete all these directories? (yes/no): yes
 Freed up approximately 3.2 GB
 ```
 
+## Compatibility
+
+- **macOS / Linux**: Full support
+- **Windows**: Full support (size calculation may be slower on very large node_modules)
+- **Node.js**: Requires version 12.0.0 or higher
+
 ## Safety
 
 - Preview before deletion
