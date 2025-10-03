@@ -1,0 +1,37 @@
+{
+  "name": "nodemaid",
+  "version": "1.0.0",
+  "description": "Clean up all node_modules directories in your projects to free up disk space",
+  "main": "index.js",
+  "bin": {
+    "nodemaid": "./index.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "node_modules",
+    "clean",
+    "cleanup",
+    "disk-space",
+    "npm",
+    "developer-tools",
+    "cli",
+    "nodemaid",
+    "maid",
+    "cleaner"
+  ],
+  "author": "Rohit <rohitcodes03@gmail.com>",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/rohiitgit/nodemaid.git"
+  },
+  "bugs": {
+    "url": "https://github.com/rohiitgit/nodemaid/issues"
+  },
+  "homepage": "https://github.com/rohiitgit/nodemaid#readme",
+  "engines": {
+    "node": ">=12.0.0"
+  }
+}
